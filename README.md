@@ -23,7 +23,7 @@ You ca
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
-<p>- 🤠 Hi, I’m Joseph</p>
+<p>- 🤠 Hi, I’m Joseph Olamiye</p>
 <p>- 🖥️ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> from Nigeria.</p>
 <p>- :telescope: I’m interested in collabrating and Connecting with developers like me and also to provide value.</</p>
 <p>- :seedling: I’m currently learning Front-end Development, also Exploring Machine learning and artificial intelligence.</p>
