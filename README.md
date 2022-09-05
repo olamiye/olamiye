@@ -27,7 +27,7 @@ You ca
 <p>- 🖥️ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> from Nigeria.</p>
 <p>- :telescope: I’m interested in collabrating and Connecting with developers like me and also to provide value.</</p>
 <p>- :seedling: I’m currently learning Front-end Development, also Exploring Machine learning and artificial intelligence.</p>
-<p>- :zap: In my free time I read tech articles lots of books and play games.</p>
+<p>- :zap: In my free time I read tech articles, lots of books and play games.</p>
 <p>- :mailbox:How to reach me: <a href="https://twitter.com/OlaJoseh?t=c_ymGX42RWTw6art9n-dtg&s=09">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
