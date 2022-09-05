@@ -32,7 +32,7 @@ You ca
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
  <a href="https://www.linkedin.com/in/joseph-olamiye-80ab77236">
-  <img src="https://img.shields.io/badge/-joseph-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  <img src="https://img.shields.io/badge/-Joseph-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
  </a>
  </p>
   
